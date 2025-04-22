@@ -1,6 +1,4 @@
-以下是完全可复制的Markdown格式（已严格验证代码块格式）：
 
-```markdown
 # 钉钉AI助理对接服务
 
 为国际高中定制的钉钉AI助理对接服务，提供符合钉钉官方API规范的对话接口，支持完整的线程会话管理。
@@ -124,5 +122,4 @@ FLASK_DEBUG=1 flask run
 ```
 
 ## 许可证  
-MIT License © 2023 国际高中技术部
-```
+MIT License © 2025 St Bees Ai Club
